@@ -3,3 +3,4 @@ text
 softserve
 new text for branch test
 Add text Master
+Add textNew branch textNew
